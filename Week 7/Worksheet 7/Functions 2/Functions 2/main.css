@@ -1,0 +1,20 @@
+div
+{
+    height: 30px;
+    line-height: 30px;
+}
+
+.disableMenu {
+    display: none;
+}
+
+.enableMenu
+{
+    display: block;
+}
+
+ul
+{
+    display: inline-block;
+    margin: 10px;
+}

@@ -1,0 +1,40 @@
+h1, h2, h3
+{
+    font-family: sans-serif;
+}
+
+h1
+{
+    color: crimson;
+}
+
+h2, h3
+{
+    color: brown;
+}
+
+ul.hor
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+ul.hor li
+{
+    float:left;
+}
+
+ul.hor li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+ul.hor li a:hover {
+    background-color: #111111;
+}

@@ -1,0 +1,31 @@
+.series
+{
+    float: left;
+}
+
+img
+{
+    padding-right: 50px;
+    width: 400px;
+    height: 250px;
+}
+
+h1
+{
+    color: cadetblue;
+    font-style: oblique;
+    font-family: fantasy;
+}
+
+p
+{
+    color: cornflowerblue;
+    font-family:monospace;
+    font-size: 18px;
+    
+}
+
+heading
+{
+    display: block;
+}

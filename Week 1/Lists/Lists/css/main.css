@@ -1,0 +1,36 @@
+.col1
+{
+    float: left;
+    width: 50%;
+}
+
+.col2
+{
+    float: right;
+    width: 50%;
+}
+
+.row1
+{
+    height: 250px;
+}
+
+h1, h2, h3
+{
+    font-family: sans-serif;
+}
+
+h1
+{
+    color: crimson;
+}
+
+h2, h3
+{
+    color: brown;
+}
+
+.squareBullet
+{
+    list-style-type: square;
+}

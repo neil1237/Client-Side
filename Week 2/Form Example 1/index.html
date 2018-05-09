@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="CSS/validation.css">
+</head>
+<body>
+   <h1>Registration</h1>
+   <h3>Enter your details:</h3>
+    <form action="submitresult.html">
+    First name:<br>
+      <input type="text" name="firstname" placeholder="Name" required>
+      <br>
+    Last name:<br>
+     <input type="text" name="lastname" placeholder="Surname" required>
+      <br><br>
+     Username:<br>
+      <input type="text" name="username" placeholder="Username" required>
+      <br>
+    Password:<br>
+      <input type="password" name="password" pattern=".{5,15}" required title="Your password needs to be between 5 and 15 characters.">
+      <br><br>
+      Gender:<br>
+       <input type="radio" name="gender" value="male" checked> Male<br>
+      <input type="radio" name="gender" value="female"> Female<br>
+      <br>
+        Email:<br>
+      <input placeholder="Email" type="email" required>
+      <br>
+      <br>Address:<br>
+      <textarea name="Address" style="width:300px; height:100px;"></textarea>
+  <br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+
+  <br><br>
+
+
+</body>
+</html>

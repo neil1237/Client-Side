@@ -1,0 +1,43 @@
+body
+{
+    background-color: aquamarine;
+}
+
+#alertBox
+{
+     background-color: aqua;   
+}
+
+img
+{
+    width: 200px;
+    border:3px solid black;
+    border-color: cornflowerblue;
+    
+}
+
+.buttons
+{
+    width: 100%;
+}
+
+.images
+{
+    width: 35%;
+    float: left;
+}
+
+.descriptions
+{
+    width : 65%;
+    float: right;
+}
+
+p
+{
+    width: 90%;
+    height: 150px;
+    text-align: center;
+    align-content: center;
+    padding-top: 35px;
+}

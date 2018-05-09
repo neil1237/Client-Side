@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Array practice</title>
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Working with Arrays</h1>
+    <p id='arrayLength'>We are going to work with an array having a length of: </p>
+    Choose you preference of array index: <br>
+    <input type="radio" name='indexType' checked onclick="changeIndex()">Starting from 0 <br>
+    <input type="radio" name='indexType' value='index1' onclick="changeIndex()" id= 'oneRdBtn'>Starting from 1 <br><br>
+    <span>Enter the item's index to view the value </span>
+    <input type="text" id="index">
+    <button onclick="displayElem()">Fetch!</button>
+    <p id='arrayItem'></p>
+    Please enter your three favourite music artists: <br><br>
+    <input type="text" id="artist1"> <br>
+    <input type="text" id="artist2"> <br>
+    <input type="text" id="artist3"> 
+    <button id='artists' onclick="musicArtists()">Enter</button><br><br>
+    <div id='enteredArtists'></div>
+    <script src="script.js"></script>
+</body>
+</html>

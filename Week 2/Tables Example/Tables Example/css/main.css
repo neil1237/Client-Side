@@ -1,0 +1,29 @@
+thead th {
+ background-color: #BDEAFF;
+ width: 100px;
+}
+
+tbody th {
+ background-color: #FFFF99;
+}
+
+tfoot th {
+ background-color: #C2FE9A;
+}
+
+ tfoot th:last-of-type {
+ text-align: right;
+ }
+
+td {
+ text-align: center;
+}
+
+/*
+The :last-of-type pseudo-class represents an element that is the last sibling of its type in the list of children of its parent element. 
+Same as :nth-last-of-type(1).
+*/
+
+td:last-of-type {
+    text-align: right;
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="CSS/stylesheet1.css">
+    <script src="Scripts/script1.js"></script>
+</head>
+<body onload="WelcomeMsg()">
+  <br>
+  <div class="buttons">
+   <button onclick="RedBackground()">Red Background</button>
+   <button onclick="BlueBackground()">Blue Background</button>
+</div>
+  <div class="images">
+   <h4>Bali</h4>
+
+<!--img src="Images/bali.jpg" alt="Bali" onload="Img1()"-->
+  <img src="Images/bali.jpg" alt="Bali">
+   <script>
+           alert("Image Load 1: Bali");
+    </script>
+    <br><a href="#" onclick="MoreBali()">More information:</a>
+    <br>
+<h4>Sri Lanka</h4>
+<!--img src="Images/Sri%20Lanka.JPG" alt="Sri Lanka" onload="Img2()"--> 
+<img src="Images/Sri%20Lanka.JPG" alt="Sri Lanka"> 
+   <script>
+           alert("Image Load 2: Sri Lanka");
+    </script>
+     <br><a href="#" onclick="MoreSriLanka()">More information:</a>
+<h4>Maldives</h4>
+<!--img src="Images/maldives.jpg" alt="Maldives" onload="Img3()"-->   
+<img src="Images/maldives.jpg" alt="Maldives">  
+<script>
+           alert("Image Load 3: Maldives");
+    </script>
+     <br><a href="#" onclick="MoreMaldives()">More information:</a>
+    </div>
+    <div class = "descriptions">
+        <p id="Bali"></p>
+        
+        <p id="SriLanka"></p>
+        
+        <p id="Maldives"></p>
+    </div>
+</body>
+</html>

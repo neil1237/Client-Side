@@ -1,0 +1,26 @@
+p>span
+{
+    display: inline-block;
+    width: 120px;
+    color: darkred;
+}
+
+h1
+{
+    color: crimson;
+}
+
+span.h3Span, h4
+{
+    display: inline-block;
+}
+
+h3
+{
+    color: darkred;
+}
+
+#dateDetails
+{
+    height: auto;
+}
