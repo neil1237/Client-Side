@@ -1,0 +1,53 @@
+Week 1
+HTML Example 1
+	css text images ans dives
+Lists,Lists2
+	unordered lists, navbar,lists inside of lists, ordered lists, square bullets and description list
+
+Week 2
+Form Example 1
+	form,required,message is shown when hover over input 'required title', pattern,action
+Layout Example 1
+	sections and divs, background color,span, iframe 'fejn titfa video'
+Tables Example
+	tati kulur il certu rows biss,th,tr,td
+
+Week 3
+Javascript 1
+	background color on click,alert,image,innerHtml biex titfa go div
+
+Week 4
+Worksheet 4
+	alert onload,onlclick,sum,multiply,typeof for string number and boolean
+Worksheet 5
+	TempConv
+		onclick,getElementid.value,set other id in input box different value,border color and style arround div
+	Vars1
+		prompt,get the value used in id and would be added with js using .innerHtml +=,store value of prompt,ParseInt /parsefloat jidru biss jekk in numru jkun fil bidu fl id
+
+Week 6
+	roundingEx
+		parseInt,ceil,floor,rounding , prompt value
+	Functions 1
+		functionexamples
+			dateFormat(day month year millisecond time), substring , indexOf, 
+		index
+			onclick,set prompts to int, add multiply,power,modulus, areas and perimeter
+
+Week 7
+	Worksheet 7
+		Validation
+			Checks that correct symbols were values entered and not symbols , instead of using if statemtent for if correct name is entered another value would be shown instead of it
+		Function 2
+			When div is clicked the colour changes,when button is clicked the counter would be added to and when button is clicked a list would be shown than if clicked again removed(dropdown), mention the div used in html so that it would be used for javascript
+	Worksheet 8
+		Function 1
+			switch statement,
+		Switch
+			switch statmements ad dots li titikja tara liema azel il user , ergajna sejahna li igib id div li azilt mil onclick stess din id darba hemm jew titfa il value inti jew inkella bil this.value, radio buttons
+
+Week 10
+	Worksheet 9
+		Arrays
+			Andek array create u meta titfa numbru issib l value li ridt mil array, tista izzid inti mal array, tista tazel jekk jibdiex mil 1 jew 0, tista tamel sort il array ukoll.
+			
