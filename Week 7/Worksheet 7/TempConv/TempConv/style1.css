@@ -1,0 +1,32 @@
+.txtfield
+{
+    margin-left: 10px;
+    margin-right: 40px;
+    width: 80px;
+}
+
+.titles
+{
+    display: inline-block;
+    width: 70px;
+}
+
+button
+{
+    width:75px;
+}
+
+.main
+{
+    width: 800px;
+    height: 200px;
+    border: 4px solid;
+    border-color: crimson;
+
+    text-align: center;
+}
+
+#btnTemp
+{
+    margin-left: 300px;
+}

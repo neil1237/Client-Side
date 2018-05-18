@@ -50,4 +50,23 @@ Week 10
 	Worksheet 9
 		Arrays
 			Andek array create u meta titfa numbru issib l value li ridt mil array, tista izzid inti mal array, tista tazel jekk jibdiex mil 1 jew 0, tista tamel sort il array ukoll.
+
+Week 12
+	Objects
+		Index	Script.js
+			get element by id tal button, creation of array,array with different values, create one object,create function in object ,place image with javascript
+		
+		Person  person.js
+			Create an object that can be used to create multiple people,validation if already mentioned and if not empty, create an object by being mentioned, size of array,Eventlister for 
+	
 			
+Week 13
+	Event Listeners	script.js
+		addEventListener, backgroundcolor, no parameters
+	Event Listeners	script2.js
+		tara liema id andu, tatih value u kulur
+
+Week 14
+	Event Listeners
+		getId, blur,focus,get id ,use function for that specific id, mouseover,mousedown,validation, setting value in function,get value of id,function with parameters
+		

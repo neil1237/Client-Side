@@ -1,0 +1,84 @@
+*
+{
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+#allPH
+{
+    margin:0;
+}
+
+.blue
+{
+     color: cornflowerblue;
+}
+
+h1
+{
+    color: darkcyan;
+    font-size: 40px;
+}
+h2
+{
+    color: cornflowerblue;
+    font-size: 30px;
+    margin: 0;
+}
+span
+{
+    display: inline-block;
+    width: 150px;
+}
+
+#carSection, #carImage
+{
+    width: 30%;
+    display: inline-block;    
+    float: left;
+}
+
+#carSection
+{
+    margin-top: 20px;
+}
+
+#buttons
+{
+    width: 100%;
+    display: block;
+}
+
+#carDetails
+{
+    width: 100%;
+    height: 30%;
+    display: block; 
+}
+
+#newPerson, #allPersons
+{
+    width: 50%;
+    float: left;
+}
+img
+{
+    width: 250px;
+    height: 180px;
+}
+
+button
+{
+    width:100px;
+    display: inline-block;
+}
+
+section
+{
+    height: 75%;
+}
+
+body
+{
+    height: 100vh;
+}
