@@ -49,7 +49,7 @@ Week 7
 Week 10
 	Worksheet 9
 		Arrays
-			Andek array create u meta titfa numbru issib l value li ridt mil array, tista izzid inti mal array, tista tazel jekk jibdiex mil 1 jew 0, tista tamel sort il array ukoll.
+			Andek array create u meta titfa numbru issib l value li ridt mil array, tista izzid inti mal array, tista tazel jekk jibdiex mil 1 jew 0, tista tamel sort il array ukoll.Tara liem dot ikklikja
 
 Week 12
 	Objects
@@ -57,7 +57,7 @@ Week 12
 			get element by id tal button, creation of array,array with different values, create one object,create function in object ,place image with javascript
 		
 		Person  person.js
-			Create an object that can be used to create multiple people,validation if already mentioned and if not empty, create an object by being mentioned, size of array,Eventlister for 
+			Create an object that can be used to create multiple people,validation if already mentioned and if not empty, create an object by being mentioned, size of array,Eventlister for ,add to array
 	
 			
 Week 13

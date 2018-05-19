@@ -23,6 +23,7 @@ function addPerson()
     var email = emailTxt.value;
     var age = ageTxt.value;
     var id = idTxt.value;
+    persons[persons.length]=id;
     
     nameTxt.value = '';
     emailTxt.value = '';
